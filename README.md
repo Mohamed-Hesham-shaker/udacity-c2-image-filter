@@ -2,7 +2,7 @@
 Filter an image from a public url and returns the filtered image file.
 
 ## Github repository
-https://github.com/Mohamed-Hesham-shaker/udacity-c2-image-filter.git
+https://github.com/Mohamed-Hesham-shaker/udacity-c2-image-filter
 
 ## Quick start
 
